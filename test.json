@@ -1,0 +1,2476 @@
+{
+  "doi": "10.1016/j.matchar.2021.111287",
+  "nodes": [
+    {
+      "id": "elem_1",
+      "label": "Refractory high-entropy alloys",
+      "name": "Refractory high-entropy alloys",
+      "properties": {}
+    },
+    {
+      "id": "elem_2",
+      "label": "Ordered structure",
+      "name": "Ordered structure",
+      "properties": {}
+    },
+    {
+      "id": "elem_3",
+      "label": "Mechanical properties",
+      "name": "Mechanical properties",
+      "properties": {}
+    },
+    {
+      "id": "elem_4",
+      "label": "Oxidation performance",
+      "name": "Oxidation performance",
+      "properties": {}
+    },
+    {
+      "id": "elem_5",
+      "label": "B2-ordered",
+      "name": "B2-ordered",
+      "properties": {}
+    },
+    {
+      "id": "elem_6",
+      "label": "BCC phase",
+      "name": "BCC phase",
+      "properties": {}
+    },
+    {
+      "id": "elem_7",
+      "label": "B2 phase",
+      "name": "B2 phase",
+      "properties": {}
+    },
+    {
+      "id": "elem_8",
+      "label": "Al alloying",
+      "name": "Al alloying",
+      "properties": {}
+    },
+    {
+      "id": "elem_9",
+      "label": "Yield strength",
+      "name": "Yield strength",
+      "properties": {}
+    },
+    {
+      "id": "elem_10",
+      "label": "Compressive ductility",
+      "name": "Compressive ductility",
+      "properties": {}
+    },
+    {
+      "id": "elem_11",
+      "label": "Oxidation resistance",
+      "name": "Oxidation resistance",
+      "properties": {}
+    },
+    {
+      "id": "elem_12",
+      "label": "Al2O3",
+      "name": "Al2O3",
+      "properties": {}
+    },
+    {
+      "id": "elem_13",
+      "label": "TiO2",
+      "name": "TiO2",
+      "properties": {}
+    },
+    {
+      "id": "elem_14",
+      "label": "(Zr,Hf)O2",
+      "name": "(Zr,Hf)O2",
+      "properties": {}
+    },
+    {
+      "id": "elem_15",
+      "label": "(Zr,Hf)V2O7",
+      "name": "(Zr,Hf)V2O7",
+      "properties": {}
+    },
+    {
+      "id": "elem_16",
+      "label": "VEC",
+      "name": "VEC",
+      "properties": {}
+    },
+    {
+      "id": "elem_17",
+      "label": "ΔHmix",
+      "name": "ΔHmix",
+      "properties": {}
+    },
+    {
+      "id": "elem_18",
+      "label": "Bo",
+      "name": "Bo",
+      "properties": {}
+    },
+    {
+      "id": "elem_19",
+      "label": "Md",
+      "name": "Md",
+      "properties": {}
+    },
+    {
+      "id": "elem_20",
+      "label": "BCC",
+      "name": "BCC",
+      "properties": {}
+    },
+    {
+      "id": "elem_21",
+      "label": "HCP",
+      "name": "HCP",
+      "properties": {}
+    },
+    {
+      "id": "elem_22",
+      "label": "Density",
+      "name": "Density",
+      "properties": {}
+    },
+    {
+      "id": "elem_23",
+      "label": "Specific strength",
+      "name": "Specific strength",
+      "properties": {}
+    },
+    {
+      "id": "elem_24",
+      "label": "Oxidation kinetics",
+      "name": "Oxidation kinetics",
+      "properties": {}
+    },
+    {
+      "id": "elem_25",
+      "label": "Parabolic pattern",
+      "name": "Parabolic pattern",
+      "properties": {}
+    },
+    {
+      "id": "elem_26",
+      "label": "Mass gain",
+      "name": "Mass gain",
+      "properties": {}
+    },
+    {
+      "id": "elem_27",
+      "label": "Oxide layer",
+      "name": "Oxide layer",
+      "properties": {}
+    },
+    {
+      "id": "elem_Al",
+      "label": "Element",
+      "name": "Al",
+      "properties": {
+        "symbol": "Al",
+        "atomic_number": 13
+      }
+    },
+    {
+      "id": "elem_Cr",
+      "label": "Element",
+      "name": "Cr",
+      "properties": {
+        "symbol": "Cr",
+        "atomic_number": 24
+      }
+    },
+    {
+      "id": "elem_Nb",
+      "label": "Element",
+      "name": "Nb",
+      "properties": {
+        "symbol": "Nb",
+        "atomic_number": 41
+      }
+    },
+    {
+      "id": "elem_Si",
+      "label": "Element",
+      "name": "Si",
+      "properties": {
+        "symbol": "Si",
+        "atomic_number": 14
+      }
+    },
+    {
+      "id": "elem_Ti",
+      "label": "Element",
+      "name": "Ti",
+      "properties": {
+        "symbol": "Ti",
+        "atomic_number": 22
+      }
+    },
+    {
+      "id": "elem_Zr",
+      "label": "Element",
+      "name": "Zr",
+      "properties": {
+        "symbol": "Zr",
+        "atomic_number": 40
+      }
+    },
+    {
+      "id": "phase_BCC",
+      "label": "Phase",
+      "name": "BCC",
+      "properties": {
+        "structure": "Body-Centered Cubic"
+      }
+    },
+    {
+      "id": "phase_B2",
+      "label": "Phase",
+      "name": "B2",
+      "properties": {
+        "structure": "Ordered Intermetallic Phase"
+      }
+    },
+    {
+      "id": "material_RHEA",
+      "label": "Material",
+      "name": "RHEA",
+      "properties": {
+        "type": "High-Entropy Alloy",
+        "structure": "BCC"
+      }
+    },
+    {
+      "id": "material_Ti2ZrHf0.5VNb0.5",
+      "label": "Material",
+      "name": "Ti2ZrHf0.5VNb0.5",
+      "properties": {
+        "composition": "Ti2ZrHf0.5VNb0.5",
+        "structure": "BCC"
+      }
+    },
+    {
+      "id": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "label": "Material",
+      "name": "Ti2ZrHf0.5VNb0.5Alx",
+      "properties": {
+        "composition": "Ti2ZrHf0.5VNb0.5Alx",
+        "structure": "BCC/B2"
+      }
+    },
+    {
+      "id": "elem_Al0",
+      "label": "Alloy",
+      "name": "Al0",
+      "properties": {
+        "composition": "Al0",
+        "alloy_type": "base alloy",
+        "x": 0,
+        "density": 6.68,
+        "yield_strength": 915,
+        "plastic_strain": 50,
+        "fracture_strength": null,
+        "hardness": 309.8,
+        "specific_yield_strength": 136.9,
+        "oxidation_depth_10h": 590,
+        "oxidation_depth_24h": 384,
+        "oxidation_depth_50h": 384,
+        "oxide_thickness_24h": 900,
+        "oxide_thickness_50h": 1475,
+        "cracks_after_10h": true,
+        "cracks_after_24h": true,
+        "cracks_after_50h": true,
+        "type": "RHEA",
+        "structure": "BCC solid solution",
+        "temperature": "RT",
+        "ductility": "poor",
+        "SYS": "low",
+        "VEC": 4.3,
+        "delta": 5.81,
+        "deltaHmix": -0.72,
+        "deltaSmix": 12.23,
+        "Omega": 36.62,
+        "Bo": 2.915,
+        "Md": 2.48,
+        "Tm": 2156
+      }
+    },
+    {
+      "id": "elem_Al0.25",
+      "label": "Alloy",
+      "name": "Al0.25",
+      "properties": {
+        "composition": "Al0.25",
+        "alloy_type": "alloy with 0.25 Al",
+        "x": 0.25,
+        "density": 6.51,
+        "yield_strength": 1040,
+        "plastic_strain": 50,
+        "fracture_strength": null,
+        "hardness": 337.4,
+        "specific_yield_strength": 159.8,
+        "VEC": 4.24,
+        "delta": 5.67,
+        "deltaHmix": -6.04,
+        "deltaSmix": 13.24,
+        "Omega": 4.6,
+        "Bo": 2.892,
+        "Md": 2.467,
+        "Tm": 2098
+      }
+    },
+    {
+      "id": "elem_Al0.5",
+      "label": "Alloy",
+      "name": "Al0.5",
+      "properties": {
+        "composition": "Al0.5",
+        "alloy_type": "alloy with 0.5 Al",
+        "x": 0.5,
+        "density": 6.35,
+        "yield_strength": 1159,
+        "plastic_strain": 50,
+        "fracture_strength": null,
+        "hardness": 375.7,
+        "specific_yield_strength": 182.5,
+        "oxidation_depth_10h": 384,
+        "oxidation_depth_24h": 384,
+        "oxidation_depth_50h": 363,
+        "oxide_thickness_24h": 900,
+        "oxide_thickness_50h": 1475,
+        "cracks_after_10h": true,
+        "cracks_after_24h": true,
+        "cracks_after_50h": true,
+        "type": "RHEA",
+        "structure": "B2 phase",
+        "temperature": "RT",
+        "ductility": "poor",
+        "SYS": "moderate",
+        "VEC": 4.18,
+        "delta": 5.54,
+        "deltaHmix": -10.41,
+        "deltaSmix": 13.65,
+        "Omega": 2.68,
+        "Bo": 2.871,
+        "Md": 2.454,
+        "Tm": 2045
+      }
+    },
+    {
+      "id": "elem_Al0.75",
+      "label": "Alloy",
+      "name": "Al0.75",
+      "properties": {
+        "composition": "Al0.75",
+        "alloy_type": "alloy with 0.75 Al",
+        "x": 0.75,
+        "density": 6.21,
+        "yield_strength": 1323,
+        "plastic_strain": 31.4,
+        "fracture_strength": 2256,
+        "hardness": 402.2,
+        "specific_yield_strength": 213.1,
+        "VEC": 4.13,
+        "delta": 5.42,
+        "deltaHmix": -14.02,
+        "deltaSmix": 13.85,
+        "Omega": 1.97,
+        "Bo": 2.851,
+        "Md": 2.443,
+        "Tm": 1996
+      }
+    },
+    {
+      "id": "elem_Al1",
+      "label": "Alloy",
+      "name": "Al1",
+      "properties": {
+        "composition": "Al1",
+        "alloy_type": "alloy with 1 Al",
+        "x": 1,
+        "density": 6.07,
+        "yield_strength": 1410,
+        "plastic_strain": 15.1,
+        "fracture_strength": 1863,
+        "hardness": 460.0,
+        "specific_yield_strength": 232.3,
+        "oxidation_depth_10h": 363,
+        "oxidation_depth_24h": 363,
+        "oxidation_depth_50h": 363,
+        "oxide_thickness_24h": 718,
+        "oxide_thickness_50h": 1350,
+        "cracks_after_10h": false,
+        "cracks_after_24h": false,
+        "cracks_after_50h": true,
+        "type": "RHEA",
+        "structure": "B2 phase",
+        "temperature": "RT",
+        "ductility": "good",
+        "SYS": "high",
+        "VEC": 4.08,
+        "delta": 5.31,
+        "deltaHmix": -17,
+        "deltaSmix": 13.94,
+        "Omega": 1.6,
+        "Bo": 2.834,
+        "Md": 2.433,
+        "Tm": 1952
+      }
+    },
+    {
+      "id": "elem_6",
+      "label": "OxidationProperty",
+      "name": "OxidationProperty_Al0",
+      "properties": {
+        "time_exponent": 1.04,
+        "growth_rate_constant": 11.65,
+        "mass_gain": null
+      }
+    },
+    {
+      "id": "elem_7",
+      "label": "OxidationProperty",
+      "name": "OxidationProperty_Al0.5",
+      "properties": {
+        "time_exponent": 0.62,
+        "growth_rate_constant": null,
+        "mass_gain": null
+      }
+    },
+    {
+      "id": "elem_8",
+      "label": "OxidationProperty",
+      "name": "OxidationProperty_Al1",
+      "properties": {
+        "time_exponent": 0.67,
+        "growth_rate_constant": null,
+        "mass_gain": null
+      }
+    },
+    {
+      "id": "elem_9",
+      "label": "Temperature",
+      "name": "873 K",
+      "properties": {
+        "value": 873
+      }
+    },
+    {
+      "id": "elem_10",
+      "label": "Temperature",
+      "name": "1073 K",
+      "properties": {
+        "value": 1073
+      }
+    },
+    {
+      "id": "elem_11",
+      "label": "HardnessStrengthRatio",
+      "name": "HardnessStrengthRatio",
+      "properties": {
+        "ratio": 3.16
+      }
+    },
+    {
+      "id": "fig_9b",
+      "label": "Figure",
+      "name": "Fig. 9(b)",
+      "properties": {
+        "description": "Oxidation depth comparison"
+      }
+    },
+    {
+      "id": "fig_8b",
+      "label": "Figure",
+      "name": "Fig. 8(b)",
+      "properties": {
+        "description": "Oxidation kinetic results"
+      }
+    },
+    {
+      "id": "table_3",
+      "label": "Table",
+      "name": "Table 3",
+      "properties": {
+        "description": "Mechanical properties of the Ti2ZrHf0.5VNb0.5Alx alloys"
+      }
+    },
+    {
+      "id": "table_4",
+      "label": "Table",
+      "name": "Table 4",
+      "properties": {
+        "description": "Fitted oxidation constants (k) and time exponent (n)"
+      }
+    },
+    {
+      "id": "fig_7",
+      "label": "Figure",
+      "name": "Fig. 7",
+      "properties": {
+        "description": "Compressive engineering stress-strain curves"
+      }
+    },
+    {
+      "id": "elem_7",
+      "label": "Alloy",
+      "name": "CoFeNiAl",
+      "properties": {
+        "type": "RHEA",
+        "structure": "unknown",
+        "temperature": "873 K",
+        "density": "decent",
+        "ductility": "good",
+        "SYS": "decent"
+      }
+    },
+    {
+      "id": "elem_8",
+      "label": "Oxide",
+      "name": "TiO2",
+      "properties": {
+        "composition": "TiO2",
+        "formation": "after oxidation"
+      }
+    },
+    {
+      "id": "elem_9",
+      "label": "Oxide",
+      "name": "(Zr,Hf)O2",
+      "properties": {
+        "composition": "(Zr,Hf)O2",
+        "formation": "after oxidation"
+      }
+    },
+    {
+      "id": "elem_10",
+      "label": "Oxide",
+      "name": "(Ti,Zr)Nb2O7",
+      "properties": {
+        "composition": "(Ti,Zr)Nb2O7",
+        "formation": "after oxidation"
+      }
+    },
+    {
+      "id": "elem_Al2O3",
+      "label": "Compound",
+      "name": "Al2O3",
+      "properties": {}
+    },
+    {
+      "id": "elem_ZrV2O7",
+      "label": "Compound",
+      "name": "ZrV2O7",
+      "properties": {}
+    },
+    {
+      "id": "elem_HfV2O7",
+      "label": "Compound",
+      "name": "HfV2O7",
+      "properties": {}
+    },
+    {
+      "id": "elem_V2O5",
+      "label": "Compound",
+      "name": "V2O5",
+      "properties": {}
+    },
+    {
+      "id": "elem_1",
+      "label": "Material",
+      "name": "Al1 alloys",
+      "properties": {
+        "description": "Al1 alloys"
+      }
+    },
+    {
+      "id": "elem_2",
+      "label": "Material",
+      "name": "Al2O3",
+      "properties": {
+        "description": "Al2O3 oxide layer"
+      }
+    },
+    {
+      "id": "elem_3",
+      "label": "Material",
+      "name": "V2O5",
+      "properties": {
+        "description": "evaporable oxide V2O5"
+      }
+    },
+    {
+      "id": "elem_4",
+      "label": "Material",
+      "name": "BCC",
+      "properties": {
+        "description": "single BCC structure"
+      }
+    },
+    {
+      "id": "elem_5",
+      "label": "Material",
+      "name": "B2",
+      "properties": {
+        "description": "single B2 structure"
+      }
+    },
+    {
+      "id": "elem_6",
+      "label": "Material",
+      "name": "RHEAs",
+      "properties": {
+        "description": "RHEAs (refractory high-entropy alloys)"
+      }
+    },
+    {
+      "id": "elem_7",
+      "label": "Material",
+      "name": "AlCrFeNiW0.2Ti0.5",
+      "properties": {
+        "description": "AlCrFeNiW0.2Ti0.5 high-entropy alloy coating"
+      }
+    },
+    {
+      "id": "elem_8",
+      "label": "Material",
+      "name": "NbMoTaX",
+      "properties": {
+        "description": "NbMoTaX refractory high-entropy alloy"
+      }
+    },
+    {
+      "id": "elem_9",
+      "label": "Material",
+      "name": "HfNbTaTiV",
+      "properties": {
+        "description": "HfNbTaTiV high-entropy alloy"
+      }
+    },
+    {
+      "id": "elem_10",
+      "label": "Material",
+      "name": "Ti-Zr-Nb-Ta-Mo",
+      "properties": {
+        "description": "biomedical Ti-Zr-Nb-Ta-Mo high entropy alloys"
+      }
+    },
+    {
+      "id": "elem_11",
+      "label": "Material",
+      "name": "Nb25Mo25Ta25W25",
+      "properties": {
+        "description": "Nb25Mo25Ta25W25 refractory high entropy alloys"
+      }
+    },
+    {
+      "id": "elem_12",
+      "label": "Material",
+      "name": "V20Nb20Mo20Ta20W20",
+      "properties": {
+        "description": "V20Nb20Mo20Ta20W20 refractory high entropy alloys"
+      }
+    },
+    {
+      "id": "elem_13",
+      "label": "Material",
+      "name": "TaNbHfZrTi",
+      "properties": {
+        "description": "high-entropy TaNbHfZrTi alloy"
+      }
+    },
+    {
+      "id": "elem_14",
+      "label": "Material",
+      "name": "AlTiVCr",
+      "properties": {
+        "description": "lightweight single-phase AlTiVCr compositionally complex alloy"
+      }
+    },
+    {
+      "id": "elem_21",
+      "label": "Publication",
+      "name": "Guo et al., 2016",
+      "properties": {
+        "title": "Microstructure and mechanical properties of refractory high entropy (Mo0.5NbHf0.5ZrTi)BCC/M5Si3 in-situ compound",
+        "year": 2016,
+        "journal": "J. Alloys Compd.",
+        "volume": 660,
+        "pages": "197–203",
+        "doi": "10.1016/j.jallcom.2015.11.091",
+        "authors": [
+          "N.N. Guo",
+          "L. Wang",
+          "L.S. Luo",
+          "X.Z. Li",
+          "R.R. Chen",
+          "Y.Q. Su",
+          "J.J. Guo",
+          "H.Z. Fu"
+        ]
+      }
+    },
+    {
+      "id": "elem_22",
+      "label": "Publication",
+      "name": "Stepanova et al., 2015",
+      "properties": {
+        "title": "Structure and mechanical properties of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) high entropy alloys",
+        "year": 2015,
+        "journal": "J. Alloys Compd.",
+        "volume": 652,
+        "pages": "266–280",
+        "doi": "10.1016/j.jallcom.2015.08.224",
+        "authors": [
+          "N.D. Stepanova",
+          "N.Y. Yurchenko",
+          "D.V. Skibin",
+          "M.A. Tikhonovsky",
+          "G.A. Salishchev"
+        ]
+      }
+    },
+    {
+      "id": "elem_23",
+      "label": "Publication",
+      "name": "Lin et al., 2015",
+      "properties": {
+        "title": "Effect of Al addition on mechanical properties and microstructure of refractory AlxHfNbTaTiZr alloys",
+        "year": 2015,
+        "journal": "J. Alloys Compd.",
+        "volume": 624,
+        "pages": "100–107",
+        "doi": "10.1016/j.jallcom.2014.11.064",
+        "authors": [
+          "C.M. Lin",
+          "C.C. Juan",
+          "C.H. Chang",
+          "C.W. Tsai",
+          "J.W. Yeh"
+        ]
+      }
+    },
+    {
+      "id": "elem_24",
+      "label": "Publication",
+      "name": "Xu et al., 2019",
+      "properties": {
+        "title": "Design of novel low-density refractory high entropy alloys for high-temperature applications",
+        "year": 2019,
+        "journal": "Mater. Sci. Eng. A",
+        "volume": 755,
+        "pages": "318–322",
+        "doi": "10.1016/j.msea.2019.03.054",
+        "authors": [
+          "Z.Q. Xu",
+          "Z.L. Ma",
+          "M. Wang",
+          "Y.W. Chen",
+          "Y.D. Tan",
+          "X.W. Cheng"
+        ]
+      }
+    },
+    {
+      "id": "elem_25",
+      "label": "Publication",
+      "name": "Soni et al., 2020",
+      "properties": {
+        "title": "Phase inversion in a two-phase, BCC+B2, refractory high entropy alloy",
+        "year": 2020,
+        "journal": "Acta Mater.",
+        "volume": 185,
+        "pages": "89–97",
+        "doi": "10.1016/j.actamat.2019.12.004",
+        "authors": [
+          "V. Soni",
+          "B. Gwalani",
+          "T. Alam",
+          "S. Dasari",
+          "Y. Zheng",
+          "O.N. Senkov",
+          "D. Miracle",
+          "R. Banerjee"
+        ]
+      }
+    },
+    {
+      "id": "elem_26",
+      "label": "Publication",
+      "name": "Jensen et al., 2016",
+      "properties": {
+        "title": "Characterization of the microstructure of the compositionally complex alloy Al1Mo0.5Nb1Ta0.5Ti1Zr1",
+        "year": 2016,
+        "journal": "Scr. Mater.",
+        "volume": 121,
+        "pages": "1–4",
+        "doi": "10.1016/j.scriptamat.2016.04.017",
+        "authors": [
+          "J.K. Jensen",
+          "B.A. Welk",
+          "R.E.A. Williams",
+          "J.M. Sosa",
+          "D.E. Huber",
+          "O.N. Senkov",
+          "G.B. Viswanathan",
+          "H.L. Fraser"
+        ]
+      }
+    },
+    {
+      "id": "elem_27",
+      "label": "Publication",
+      "name": "Coury et al., 2018",
+      "properties": {
+        "title": "Phase equilibria, mechanical properties and design of quaternary refractory high entropy alloys",
+        "year": 2018,
+        "journal": "Mater. Des.",
+        "volume": 155,
+        "pages": "244–256",
+        "doi": "10.1016/j.matdes.2018.06.003",
+        "authors": [
+          "F.G. Coury",
+          "T. Butler",
+          "K. Chaput",
+          "A. Saville",
+          "J. Copley",
+          "J. Foltz",
+          "P. Mason",
+          "K. Clarke",
+          "M. Kaufman",
+          "A. Clarke"
+        ]
+      }
+    },
+    {
+      "id": "elem_28",
+      "label": "Publication",
+      "name": "Senkov et al., 2013",
+      "properties": {
+        "title": "Low-density, refractory multi-principal element alloys of the Cr-Nb-Ti-V-Zr system: microstructure and phase analysis",
+        "year": 2013,
+        "journal": "Acta Mater.",
+        "volume": 61,
+        "pages": "1545–1557",
+        "doi": "10.1016/j.actamat.2012.11.032",
+        "authors": [
+          "O.N. Senkov",
+          "S.V. Senkova",
+          "C. Woodward",
+          "D.B. Miracle"
+        ]
+      }
+    },
+    {
+      "id": "elem_29",
+      "label": "Publication",
+      "name": "Fazakas et al., 2014",
+      "properties": {
+        "title": "Experimental and theoretical study of Ti20Zr20Hf20Nb20X20 (X = V or Cr) refractory high-entropy alloys",
+        "year": 2014,
+        "journal": "Int. J. Refract. Met. H.",
+        "volume": 47,
+        "pages": "131–138",
+        "doi": "10.1016/j.ijrmhm.2014.07.009",
+        "authors": [
+          "É. Fazakas",
+          "V. Zadorozhnyy",
+          "L.K. Varga",
+          "A. Inoue",
+          "D.V. Louzguine-Luzgin",
+          "F.Y. Tian",
+          "L. Vitos"
+        ]
+      }
+    },
+    {
+      "id": "elem_30",
+      "label": "Publication",
+      "name": "Liu et al., 2017",
+      "properties": {
+        "title": "Microstructure and mechanical properties of refractory HfMo0.5NbTiV0.5Six high-entropy composites",
+        "year": 2017,
+        "journal": "J. Alloys Compd.",
+        "volume": 694,
+        "pages": "869–876",
+        "doi": "10.1016/j.jallcom.2016.10.014",
+        "authors": [
+          "Y. Liu",
+          "Y. Zhang",
+          "H. Zhang",
+          "N.J. Wang",
+          "X. Chen",
+          "H.W. Zhang",
+          "Y.X. Li"
+        ]
+      }
+    },
+    {
+      "id": "elem_31",
+      "label": "Publication",
+      "name": "Liu et al., 2014",
+      "properties": {
+        "title": "Microstructure and oxidation behavior of new refractory high entropy alloys",
+        "year": 2014,
+        "journal": "J. Alloys Compd.",
+        "volume": 583,
+        "pages": "162–169",
+        "doi": "10.1016/j.jallcom.2013.08.102",
+        "authors": [
+          "C.M. Liu",
+          "H.M. Wang",
+          "S.Q. Zhang",
+          "H.B. Tang",
+          "A.L. Zhang"
+        ]
+      }
+    },
+    {
+      "id": "elem_32",
+      "label": "Publication",
+      "name": "Gorr et al., 2015",
+      "properties": {
+        "title": "Phase equilibria, microstructure, and high temperature oxidation resistance of novel refractory high-entropy alloys",
+        "year": 2015,
+        "journal": "J. Alloys Compd.",
+        "volume": 624,
+        "pages": "270–278",
+        "doi": "10.1016/j.jallcom.2014.11.012",
+        "authors": [
+          "B. Gorr",
+          "M. Azim",
+          "H.J. Christ",
+          "T. Mueller",
+          "D. Schliephake",
+          "M. Heilmaier"
+        ]
+      }
+    },
+    {
+      "id": "elem_33",
+      "label": "Publication",
+      "name": "Gorr et al., 2016",
+      "properties": {
+        "title": "Microstructure evolution in a new refractory high-entropy alloy W-Mo-Cr-Ti-Al",
+        "year": 2016,
+        "journal": "Metall. Mater. Trans. A",
+        "volume": 47,
+        "pages": "961–970",
+        "doi": "10.1007/s11661-015-3246-0",
+        "authors": [
+          "B. Gorr",
+          "M. Azim",
+          "H.J. Christ",
+          "H. Chen",
+          "D.V. Szabo",
+          "A. Kauffmann",
+          "M. Heilmaier"
+        ]
+      }
+    },
+    {
+      "id": "elem_34",
+      "label": "Publication",
+      "name": "Chen et al., 2016",
+      "properties": {
+        "title": "Microstructure and mechanical properties at elevated temperatures of a new Al-containing refractory high-entropy alloy Nb-Mo-Cr-Ti-Al",
+        "year": 2016,
+        "journal": "J. Alloys Compd.",
+        "volume": 661,
+        "pages": "206–215",
+        "doi": "10.1016/j.jallcom.2015.11.050",
+        "authors": [
+          "H. Chen",
+          "A. Kauffmann",
+          "B. Gorr",
+          "D. Schliephake",
+          "C. Seemüller",
+          "J.N. Wagner",
+          "H.J. Christ",
+          "M. Heilmaier"
+        ]
+      }
+    },
+    {
+      "id": "elem_36",
+      "label": "Publication",
+      "name": "Butler et al., 2017",
+      "properties": {
+        "title": "High temperature oxidation behaviors of equimolar NbTiZrV and NbTiZrCr refractory complex concentrated alloys (RCCAs)",
+        "year": 2017,
+        "journal": "J. Alloys Compd.",
+        "volume": 729,
+        "pages": "1004–1019",
+        "doi": "10.1016/j.jallcom.2017.09.164",
+        "authors": [
+          "T.M. Butler",
+          "K.J. Chaput",
+          "J.R. Dietrich",
+          "O.N. Senkov"
+        ]
+      }
+    },
+    {
+      "id": "elem_37",
+      "label": "Publication",
+      "name": "Butler et al., 2019",
+      "properties": {
+        "title": "Native oxidation resistance of Al20Nb30Ta10Ti30Zr10 refractory complex concentrated alloy (RCCA)",
+        "year": 2019,
+        "journal": "J. Alloys Compd.",
+        "volume": 787,
+        "pages": "606–617",
+        "doi": "10.1016/j.jallcom.2019.02.128",
+        "authors": [
+          "T.M. Butler",
+          "K.J. Chaput"
+        ]
+      }
+    },
+    {
+      "id": "elem_38",
+      "label": "Publication",
+      "name": "Qiao et al., 2019",
+      "properties": {
+        "title": "A novel series of refractory high-entropy alloys Ti2ZrHf0.5VNbx with high specific yield strength and good ductility",
+        "year": 2019,
+        "journal": "Acta Metall. Sin. - Engl.",
+        "volume": 32,
+        "pages": "925–931",
+        "doi": "10.1007/s40195-019-00921-3",
+        "authors": [
+          "D.X. Qiao",
+          "H. Jiang",
+          "W.N. Jiao",
+          "Y.P. Lu",
+          "Z.Q. Cao",
+          "T.J. Li"
+        ]
+      }
+    },
+    {
+      "id": "elem_39",
+      "label": "Publication",
+      "name": "Boehlert et al., 1999",
+      "properties": {
+        "title": "The microstructural evolution in Ti-Al-Nb O + Bcc orthorhombic alloys",
+        "year": 1999,
+        "journal": "Metall. Mater. Trans. A",
+        "volume": 30,
+        "pages": "2305–2323",
+        "doi": "10.1007/s11661-999-0240-4",
+        "authors": [
+          "C.J. Boehlert",
+          "B.S. Majumdar",
+          "V. Seetharaman",
+          "D.B. Miracle"
+        ]
+      }
+    },
+    {
+      "id": "elem_40",
+      "label": "Publication",
+      "name": "NiAl and its alloys Practice",
+      "properties": {
+        "title": "NiAl and its alloys Practice",
+        "year": 1994,
+        "journal": "Intermetallic Compounds Vol. 2",
+        "volume": "",
+        "pages": "53–72",
+        "doi": "",
+        "authors": [
+          "D.B. Miracle",
+          "R. Darolia",
+          "J.H. Westbrook",
+          "R.L. Fleischer"
+        ]
+      }
+    },
+    {
+      "id": "elem_41",
+      "label": "Publication",
+      "name": "Martienssen et al., 2005",
+      "properties": {
+        "title": "Springer Handbook of Condensed Matter and Materials Data",
+        "year": 2005,
+        "journal": "Springer",
+        "volume": "",
+        "pages": "",
+        "doi": "",
+        "authors": [
+          "W. Martienssen",
+          "H. Warlimont"
+        ]
+      }
+    },
+    {
+      "id": "elem_42",
+      "label": "Publication",
+      "name": "Yang et al., Mater. Chem. Phys. 132 (2012)",
+      "properties": {
+        "title": "Mater. Chem. Phys. 132 (2012)",
+        "authors": [
+          "X. Yang",
+          "Y. Zhang",
+          "et al."
+        ],
+        "year": 2012,
+        "doi": "10.1016/j.matchemphys.2011.11.021"
+      }
+    },
+    {
+      "id": "elem_43",
+      "label": "Publication",
+      "name": "Zhang et al., Adv. Eng. Mater. 10 (2008)",
+      "properties": {
+        "title": "Adv. Eng. Mater. 10 (2008)",
+        "authors": [
+          "Y. Zhang",
+          "Y.J. Zhou",
+          "J.P. Lin",
+          "G.L. Chen",
+          "P.K. Liaw"
+        ],
+        "year": 2008,
+        "doi": "10.1002/adem.200700240"
+      }
+    },
+    {
+      "id": "elem_44",
+      "label": "Publication",
+      "name": "Isaac et al., Acta Mater. 85 (2015)",
+      "properties": {
+        "title": "Acta Mater. 85 (2015)",
+        "authors": [
+          "T.C. Isaac",
+          "E.J. Pedro"
+        ],
+        "year": 2015,
+        "doi": "10.1016/j.actamat.2014.11.014"
+      }
+    },
+    {
+      "id": "elem_45",
+      "label": "Publication",
+      "name": "Guo et al., J. Appl. Phys. 109 (2011)",
+      "properties": {
+        "title": "J. Appl. Phys. 109 (2011)",
+        "authors": [
+          "S. Guo",
+          "C. Ng",
+          "J. Lu",
+          "C.T. Liu"
+        ],
+        "year": 2011,
+        "doi": "10.1063/1.3587228"
+      }
+    },
+    {
+      "id": "elem_46",
+      "label": "Publication",
+      "name": "Abdel-had et al., Scr. Mater. 55 (2006)",
+      "properties": {
+        "title": "Scr. Mater. 55 (2006)",
+        "authors": [
+          "M. Abdel-had",
+          "K. Hinoshita",
+          "M. Morinaga"
+        ],
+        "year": 2006,
+        "doi": "10.1016/j.scriptamat.2006.04.022"
+      }
+    },
+    {
+      "id": "elem_47",
+      "label": "Publication",
+      "name": "Zhang et al., Mater. Charact. 142 (2018)",
+      "properties": {
+        "title": "Mater. Charact. 142 (2018)",
+        "authors": [
+          "L. Zhang",
+          "H.M. Fu",
+          "S.F. Ge",
+          "Z.W. Zhu",
+          "H. Li",
+          "H.W. Zhang",
+          "A. Wang",
+          "H.F. Zhang"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.matchar.2018.06.012"
+      }
+    },
+    {
+      "id": "elem_48",
+      "label": "Publication",
+      "name": "Chen et al., J. Alloys Compd. 795 (2019)",
+      "properties": {
+        "title": "J. Alloys Compd. 795 (2019)",
+        "authors": [
+          "S.Y. Chen",
+          "K.K. Tseng",
+          "Y. Tong",
+          "W.D. Li",
+          "C.W. Tsai",
+          "J.W. Yeh",
+          "P.K. Liaw"
+        ],
+        "year": 2019,
+        "doi": "10.1016/j.jallcom.2019.04.291"
+      }
+    },
+    {
+      "id": "elem_49",
+      "label": "Publication",
+      "name": "Senkov et al., Metall. Mater. Trans. A. 49 (2018)",
+      "properties": {
+        "title": "Metall. Mater. Trans. A. 49 (2018)",
+        "authors": [
+          "O.N. Senkov",
+          "A.L. Pilchak",
+          "S.L. Semiatin"
+        ],
+        "year": 2018,
+        "doi": "10.1007/s11661-018-4646-8"
+      }
+    },
+    {
+      "id": "elem_50",
+      "label": "Publication",
+      "name": "Chen et al., Entropy 16 (2014)",
+      "properties": {
+        "title": "Entropy 16 (2014)",
+        "authors": [
+          "S.Y. Chen",
+          "X. Yang",
+          "K.A. Dahmen",
+          "P.K. Liaw",
+          "Y. Zhang"
+        ],
+        "year": 2014,
+        "doi": "10.3390/e16020870"
+      }
+    },
+    {
+      "id": "elem_51",
+      "label": "Publication",
+      "name": "Senkov et al., Mater. Des. 139 (2018)",
+      "properties": {
+        "title": "Mater. Des. 139 (2018)",
+        "authors": [
+          "O.N. Senkov",
+          "J.K. Jensen",
+          "A.L. Pilchak",
+          "D.B. Miracle",
+          "H.L. Fraser"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.matdes.2017.11.033"
+      }
+    },
+    {
+      "id": "elem_52",
+      "label": "Publication",
+      "name": "Yurchenko et al., Mater. Sci. Eng. A 704 (2017)",
+      "properties": {
+        "title": "Mater. Sci. Eng. A 704 (2017)",
+        "authors": [
+          "N.Y. Yurchenko",
+          "N.D. Stepanov",
+          "S.V. Zherebtsov",
+          "M.A. Tikhonovsky",
+          "G.A. Salishchev"
+        ],
+        "year": 2017,
+        "doi": "10.1016/j.msea.2017.08.019"
+      }
+    },
+    {
+      "id": "elem_53",
+      "label": "Publication",
+      "name": "Yang et al., Procedia Eng. 36 (2012)",
+      "properties": {
+        "title": "Procedia Eng. 36 (2012)",
+        "authors": [
+          "X. Yang",
+          "Y. Zhang",
+          "P.K. Liaw"
+        ],
+        "year": 2012,
+        "doi": "10.1016/j.proeng.2012.03.043"
+      }
+    },
+    {
+      "id": "elem_54",
+      "label": "Publication",
+      "name": "Han et al., Intermetallics 84 (2017)",
+      "properties": {
+        "title": "Intermetallics 84 (2017)",
+        "authors": [
+          "Z.D. Han",
+          "N. Chen",
+          "S.F. Zhao",
+          "L.W. Fan",
+          "G.N. Yang",
+          "Y. Shao",
+          "K.F. Yao"
+        ],
+        "year": 2017,
+        "doi": "10.1016/j.intermet.2017.01.007"
+      }
+    },
+    {
+      "id": "elem_55",
+      "label": "Publication",
+      "name": "Eshed et al., JOM 71 (2019)",
+      "properties": {
+        "title": "JOM 71 (2019)",
+        "authors": [
+          "E. Eshed",
+          "N. Larianovsky",
+          "A. Kovalevsky",
+          "K.A. Demyanetz"
+        ],
+        "year": 2019,
+        "doi": "10.1007/s11837-018-3198-0"
+      }
+    },
+    {
+      "id": "elem_56",
+      "label": "Publication",
+      "name": "Qiao et al., Mater. Sci. Forum 898 (2017)",
+      "properties": {
+        "title": "Mater. Sci. Forum 898 (2017)",
+        "authors": [
+          "D.X. Qiao",
+          "H. Jiang",
+          "X.X. Chang",
+          "Y.P. Lu",
+          "T.J. Li"
+        ],
+        "year": 2017,
+        "doi": "10.4028/www.scientific.net/MSF.898.638"
+      }
+    },
+    {
+      "id": "elem_57",
+      "label": "Publication",
+      "name": "Stepanov et al., Mater. Lett. 188 (2017)",
+      "properties": {
+        "title": "Mater. Lett. 188 (2017)",
+        "authors": [
+          "N.D. Stepanov",
+          "N.Y. Yurchenko",
+          "E.S. Panina",
+          "M.A. Tikhonovsky",
+          "S.V. Zherebtsov"
+        ],
+        "year": 2017,
+        "doi": "10.1016/j.matlet.2016.11.030"
+      }
+    },
+    {
+      "id": "elem_58",
+      "label": "Publication",
+      "name": "Guo et al., Intermetallics 69 (2016)",
+      "properties": {
+        "title": "Intermetallics 69 (2016)",
+        "authors": [
+          "N.N. Guo",
+          "L. Wang",
+          "L.S. Luo",
+          "X.Z. Li",
+          "R.R. Chen",
+          "Y.Q. Su",
+          "J.J. Guo",
+          "H.Z. Fu"
+        ],
+        "year": 2016,
+        "doi": "10.1016/j.intermet.2015.10.011"
+      }
+    },
+    {
+      "id": "elem_59",
+      "label": "Publication",
+      "name": "Chen et al., Mater. Sci. Eng. 359 (2018)",
+      "properties": {
+        "title": "Mater. Sci. Eng. 359 (2018)",
+        "authors": [
+          "Y.W. Chen",
+          "Y.K. Li",
+          "X.W. Cheng",
+          "C. Wu",
+          "B. Cheng"
+        ],
+        "year": 2018,
+        "doi": "10.1088/1757-899X/359/1/012033"
+      }
+    },
+    {
+      "id": "elem_60",
+      "label": "Publication",
+      "name": "Feuerbacher et al., Scr. Mater. 152 (2018)",
+      "properties": {
+        "title": "Scr. Mater. 152 (2018)",
+        "authors": [
+          "M. Feuerbacher",
+          "T. Lienig",
+          "C. Thomas"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.scriptamat.2018.04.009"
+      }
+    },
+    {
+      "id": "elem_61",
+      "label": "Publication",
+      "name": "Lee et al., Acta Mater. 160 (2018)",
+      "properties": {
+        "title": "Acta Mater. 160 (2018)",
+        "authors": [
+          "C.H. Lee",
+          "G. Song",
+          "M.C. Gao",
+          "R. Feng",
+          "P.Y. Chen",
+          "J. Brechtl",
+          "Y. Chen",
+          "K. An",
+          "W. Guo",
+          "J.D. Poplawsky",
+          "S. Li",
+          "A.T. Samaei",
+          "W. Chen",
+          "A. Hu",
+          "H. Choo",
+          "P.K. Liaw"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.actamat.2018.08.053"
+      }
+    },
+    {
+      "id": "elem_62",
+      "label": "Publication",
+      "name": "Nguyen et al., Intermetallics 101 (2018)",
+      "properties": {
+        "title": "Intermetallics 101 (2018)",
+        "authors": [
+          "V.T. Nguyen",
+          "M. Qian",
+          "Z. Shi",
+          "T. Song",
+          "L. Huang",
+          "J. Zou"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.intermet.2018.07.008"
+      }
+    },
+    {
+      "id": "elem_63",
+      "label": "Publication",
+      "name": "Tseng et al., Entropy 21 (2019)",
+      "properties": {
+        "title": "Entropy 21 (2019)",
+        "authors": [
+          "K.K. Tseng",
+          "C.C. Juan",
+          "S. Tso",
+          "H.C. Chen",
+          "C.W. Tsai",
+          "J.W. Yeh"
+        ],
+        "year": 2019,
+        "doi": "10.3390/e21010015"
+      }
+    },
+    {
+      "id": "elem_64",
+      "label": "Publication",
+      "name": "Wang et al., Intermetallics 95 (2018)",
+      "properties": {
+        "title": "Intermetallics 95 (2018)",
+        "authors": [
+          "S.P. Wang",
+          "J. Xu"
+        ],
+        "year": 2018,
+        "doi": "10.1016/j.intermet.2018.01.017"
+      }
+    },
+    {
+      "id": "elem_65",
+      "label": "Publication",
+      "name": "Senkov et al., JOM 66 (2014)",
+      "properties": {
+        "title": "JOM 66 (2014)",
+        "authors": [
+          "O.N. Senkov",
+          "C. Woodward",
+          "D.B. Miracle"
+        ],
+        "year": 2014,
+        "doi": "10.1007/s11837-014-1066-0"
+      }
+    },
+    {
+      "id": "elem_66",
+      "label": "Publication",
+      "name": "Senkov et al., Mater.Sci. Eng. A 529 (2011)",
+      "properties": {
+        "title": "Mater.Sci. Eng. A 529 (2011)",
+        "authors": [
+          "O.N. Senkov",
+          "C.F. Woodward"
+        ],
+        "year": 2011,
+        "doi": "10.1016/j.msea.2011.09.033"
+      }
+    },
+    {
+      "id": "elem_67",
+      "label": "Publication",
+      "name": "Senkov et al., (incomplete)",
+      "properties": {
+        "title": "(incomplete)",
+        "authors": [
+          "O.N. Senkov",
+          "J.M. Scott",
+          "S.V. Senkova",
+          "F. Meisenkothen",
+          "D.B. Miracle",
+          "C.F. Woodward"
+        ],
+        "year": null,
+        "doi": null
+      }
+    },
+    {
+      "id": "elem_68",
+      "label": "Publication",
+      "name": "N. Yurchenko, E. Panina, M. Tikhonovsky, G. Salishchev, S. Zherebtsov, N. Stepanov, A new refractory Ti-Nb-Hf-Al high entropy alloy strengthened by orthorhombic phase particles, Int. J. Refract. Met. H. 92 (2020) 105322, https://doi.org/10.1016/j.ijrmhm.2020.105322",
+      "properties": {
+        "title": "A new refractory Ti-Nb-Hf-Al high entropy alloy strengthened by orthorhombic phase particles",
+        "journal": "Int. J. Refract. Met. H.",
+        "year": 2020,
+        "volume": 92,
+        "pages": "105322",
+        "doi": "https://doi.org/10.1016/j.ijrmhm.2020.105322",
+        "authors": [
+          "N. Yurchenko",
+          "E. Panina",
+          "M. Tikhonovsky",
+          "G. Salishchev",
+          "S. Zherebtsov",
+          "N. Stepanov"
+        ]
+      }
+    },
+    {
+      "id": "elem_69",
+      "label": "Publication",
+      "name": "D.G. Shaysultanov, G.A. Salishchev, Yu.V. Ivanisenko, S.V. Zherebtsov, M. A. Tikhonovsky, N.D. Stepanov, Novel Fe36Mn21Cr18Ni15Al10 high entropy alloy with bcc/B2 dual-phase structure, J. Alloys Compd. 705 (2017) 756–763, https://doi.org/10.1016/j.jallcom.2017.02.211",
+      "properties": {
+        "title": "Novel Fe36Mn21Cr18Ni15Al10 high entropy alloy with bcc/B2 dual-phase structure",
+        "journal": "J. Alloys Compd.",
+        "year": 2017,
+        "volume": 705,
+        "pages": "756–763",
+        "doi": "https://doi.org/10.1016/j.jallcom.2017.02.211",
+        "authors": [
+          "D.G. Shaysultanov",
+          "G.A. Salishchev",
+          "Yu.V. Ivanisenko",
+          "S.V. Zherebtsov",
+          "M. A. Tikhonovsky",
+          "N.D. Stepanov"
+        ]
+      }
+    },
+    {
+      "id": "elem_70",
+      "label": "Publication",
+      "name": "F. He, Z.J. Wang, X.L. Shang, C. Leng, J.J. Li, J.C. Wang, Stability of lamellar structures in CoCrFeNiNbx eutectic high entropy alloys at elevated temperatures, Mater. Des. 104 (2016) 259–264, https://doi.org/10.1016/j.matdes.2016.05.044",
+      "properties": {
+        "title": "Stability of lamellar structures in CoCrFeNiNbx eutectic high entropy alloys at elevated temperatures",
+        "journal": "Mater. Des.",
+        "year": 2016,
+        "volume": 104,
+        "pages": "259–264",
+        "doi": "https://doi.org/10.1016/j.matdes.2016.05.044",
+        "authors": [
+          "F. He",
+          "Z.J. Wang",
+          "X.L. Shang",
+          "C. Leng",
+          "J.J. Li",
+          "J.C. Wang"
+        ]
+      }
+    },
+    {
+      "id": "elem_71",
+      "label": "Publication",
+      "name": "K.S. Lee, J.H. Kang, K.R. Lim, Y.S. Na, Influence of compressive strain on the microstructural evolution of an AlCoCrFeNi high entropy alloy, Mater. Charact. 132 (2017) 162–168, https://doi.org/10.1016/j.matchar.2017.08.010",
+      "properties": {
+        "title": "Influence of compressive strain on the microstructural evolution of an AlCoCrFeNi high entropy alloy",
+        "journal": "Mater. Charact.",
+        "year": 2017,
+        "volume": 132,
+        "pages": "162–168",
+        "doi": "https://doi.org/10.1016/j.matchar.2017.08.010",
+        "authors": [
+          "K.S. Lee",
+          "J.H. Kang",
+          "K.R. Lim",
+          "Y.S. Na"
+        ]
+      }
+    },
+    {
+      "id": "elem_72",
+      "label": "Publication",
+      "name": "C.J. Tong, M.R. Chen, J.W. Yeh, S.J. Lin, S.K. Chen, T.T. Shun, S.Y. Chang, Mechanical performance of the AlxCoCrCuFeNi high-entropy alloy system with multiprincipal elements, Metall. Mater. Trans. A 36 (2005) 1263–1271, https://doi.org/10.1007/s11661-005-0218-9",
+      "properties": {
+        "title": "Mechanical performance of the AlxCoCrCuFeNi high-entropy alloy system with multiprincipal elements",
+        "journal": "Metall. Mater. Trans. A",
+        "year": 2005,
+        "volume": 36,
+        "pages": "1263–1271",
+        "doi": "https://doi.org/10.1007/s11661-005-0218-9",
+        "authors": [
+          "C.J. Tong",
+          "M.R. Chen",
+          "J.W. Yeh",
+          "S.J. Lin",
+          "S.K. Chen",
+          "T.T. Shun",
+          "S.Y. Chang"
+        ]
+      }
+    },
+    {
+      "id": "elem_73",
+      "label": "Publication",
+      "name": "T.F. Li, Oxidation and Corrosion of Metals at High Temperature, Chemical Industry Press (CIP), Beijing, 2003, pp. 48–49",
+      "properties": {
+        "title": "Oxidation and Corrosion of Metals at High Temperature",
+        "publisher": "Chemical Industry Press (CIP)",
+        "location": "Beijing",
+        "year": 2003,
+        "pages": "48–49",
+        "authors": [
+          "T.F. Li"
+        ]
+      }
+    },
+    {
+      "id": "elem_74",
+      "label": "Publication",
+      "name": "J.S. Dunn, The high temperature oxidation of metals, Proc. R. Soc. A-Math. Phys. Eng. Sci. 111 (1926) 203–209",
+      "properties": {
+        "title": "The high temperature oxidation of metals",
+        "journal": "Proc. R. Soc. A-Math. Phys. Eng. Sci.",
+        "year": 1926,
+        "volume": 111,
+        "pages": "203–209",
+        "authors": [
+          "J.S. Dunn"
+        ]
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "elem_1",
+      "type": "has",
+      "target": "elem_2",
+      "properties": {}
+    },
+    {
+      "source": "elem_1",
+      "type": "has",
+      "target": "elem_3",
+      "properties": {}
+    },
+    {
+      "source": "elem_1",
+      "type": "has",
+      "target": "elem_4",
+      "properties": {}
+    },
+    {
+      "source": "elem_5",
+      "type": "is_a",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "is_a",
+      "target": "elem_20",
+      "properties": {}
+    },
+    {
+      "source": "elem_7",
+      "type": "is_a",
+      "target": "elem_5",
+      "properties": {}
+    },
+    {
+      "source": "elem_8",
+      "type": "affects",
+      "target": "elem_6",
+      "properties": {}
+    },
+    {
+      "source": "elem_8",
+      "type": "affects",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_9",
+      "type": "increases",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_10",
+      "type": "decreases",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_11",
+      "type": "enhances",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_12",
+      "type": "is_part_of",
+      "target": "elem_27",
+      "properties": {}
+    },
+    {
+      "source": "elem_13",
+      "type": "is_part_of",
+      "target": "elem_27",
+      "properties": {}
+    },
+    {
+      "source": "elem_14",
+      "type": "is_part_of",
+      "target": "elem_27",
+      "properties": {}
+    },
+    {
+      "source": "elem_15",
+      "type": "is_part_of",
+      "target": "elem_27",
+      "properties": {}
+    },
+    {
+      "source": "elem_16",
+      "type": "predicts",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_17",
+      "type": "predicts",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_18",
+      "type": "predicts",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_19",
+      "type": "predicts",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_20",
+      "type": "is_a",
+      "target": "elem_21",
+      "properties": {}
+    },
+    {
+      "source": "elem_22",
+      "type": "has",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_23",
+      "type": "exceeds",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_24",
+      "type": "follows",
+      "target": "elem_25",
+      "properties": {}
+    },
+    {
+      "source": "elem_26",
+      "type": "measures",
+      "target": "elem_24",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Al",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Cr",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Nb",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Si",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Ti",
+      "properties": {}
+    },
+    {
+      "source": "material_RHEA",
+      "type": "has_component",
+      "target": "elem_Zr",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5",
+      "type": "has_component",
+      "target": "elem_Ti",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5",
+      "type": "has_component",
+      "target": "elem_Zr",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5",
+      "type": "has_component",
+      "target": "elem_Nb",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_component",
+      "target": "elem_Al",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_component",
+      "target": "elem_Ti",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_component",
+      "target": "elem_Zr",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_component",
+      "target": "elem_Nb",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5",
+      "type": "has_phase",
+      "target": "phase_BCC",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_phase",
+      "target": "phase_BCC",
+      "properties": {}
+    },
+    {
+      "source": "material_Ti2ZrHf0.5VNb0.5Alx",
+      "type": "has_phase",
+      "target": "phase_B2",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0",
+      "type": "hasHardness",
+      "target": "elem_11",
+      "properties": {
+        "unit": "HV/MPa"
+      }
+    },
+    {
+      "source": "elem_Al0.25",
+      "type": "hasHardness",
+      "target": "elem_11",
+      "properties": {
+        "unit": "HV/MPa"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "hasHardness",
+      "target": "elem_11",
+      "properties": {
+        "unit": "HV/MPa"
+      }
+    },
+    {
+      "source": "elem_Al0.75",
+      "type": "hasHardness",
+      "target": "elem_11",
+      "properties": {
+        "unit": "HV/MPa"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "hasHardness",
+      "target": "elem_11",
+      "properties": {
+        "unit": "HV/MPa"
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "hasOxidationProperty",
+      "target": "elem_6",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "hasOxidationProperty",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al1",
+      "type": "hasOxidationProperty",
+      "target": "elem_8",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0",
+      "type": "hasTemperature",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0",
+      "type": "hasTemperature",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.25",
+      "type": "hasTemperature",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.25",
+      "type": "hasTemperature",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "hasTemperature",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "hasTemperature",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.75",
+      "type": "hasTemperature",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0.75",
+      "type": "hasTemperature",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al1",
+      "type": "hasTemperature",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al1",
+      "type": "hasTemperature",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_Al0",
+      "type": "shows_oxidation_depth",
+      "target": "fig_9b",
+      "properties": {
+        "time": "10 h",
+        "value": 590
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "shows_oxidation_depth",
+      "target": "fig_9b",
+      "properties": {
+        "time": "10 h",
+        "value": 384
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "shows_oxidation_depth",
+      "target": "fig_9b",
+      "properties": {
+        "time": "10 h",
+        "value": 363
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "shows_oxide_thickness",
+      "target": "fig_9b",
+      "properties": {
+        "time": "24 h",
+        "value": 900
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "shows_oxide_thickness",
+      "target": "fig_9b",
+      "properties": {
+        "time": "24 h",
+        "value": 718
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "has_cracks",
+      "target": "fig_9b",
+      "properties": {
+        "time": "10 h",
+        "value": true
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "has_cracks",
+      "target": "fig_9b",
+      "properties": {
+        "time": "50 h",
+        "value": true
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "has_cracks",
+      "target": "fig_8b",
+      "properties": {
+        "time": "10 h",
+        "value": false
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "shows_oxidation_kinetics",
+      "target": "fig_8b",
+      "properties": {
+        "time": "1073 K",
+        "value": "linear scale"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "shows_oxidation_kinetics",
+      "target": "fig_8b",
+      "properties": {
+        "time": "1073 K",
+        "value": "linear scale"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "shows_oxidation_kinetics",
+      "target": "fig_8b",
+      "properties": {
+        "time": "1073 K",
+        "value": "linear scale"
+      }
+    },
+    {
+      "source": "table_3",
+      "type": "contains_data",
+      "target": "elem_Al0",
+      "properties": {
+        "temperature": "RT",
+        "yield_strength": 915,
+        "plastic_strain": 50,
+        "specific_yield_strength": 136.9
+      }
+    },
+    {
+      "source": "table_3",
+      "type": "contains_data",
+      "target": "elem_Al0.5",
+      "properties": {
+        "temperature": "RT",
+        "yield_strength": 1159,
+        "plastic_strain": 50,
+        "specific_yield_strength": 182.5
+      }
+    },
+    {
+      "source": "table_3",
+      "type": "contains_data",
+      "target": "elem_Al1",
+      "properties": {
+        "temperature": "RT",
+        "yield_strength": 1410,
+        "plastic_strain": 15.1,
+        "specific_yield_strength": 232.3
+      }
+    },
+    {
+      "source": "table_4",
+      "type": "contains_data",
+      "target": "elem_Al0",
+      "properties": {
+        "time": "Before 24 h",
+        "k": 11.65,
+        "n": 1.04,
+        "R2": 0.99
+      }
+    },
+    {
+      "source": "table_4",
+      "type": "contains_data",
+      "target": "elem_Al0.5",
+      "properties": {
+        "time": "Before 24 h",
+        "k": 8.14,
+        "n": 0.62,
+        "R2": 0.99
+      }
+    },
+    {
+      "source": "table_4",
+      "type": "contains_data",
+      "target": "elem_Al1",
+      "properties": {
+        "time": "Before 24 h",
+        "k": 5.36,
+        "n": 0.67,
+        "R2": 0.99
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "has_structure",
+      "target": "elem_Al0",
+      "properties": {
+        "structure": "BCC solid solution"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "has_structure",
+      "target": "elem_Al0.5",
+      "properties": {
+        "structure": "B2 phase"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "has_structure",
+      "target": "elem_Al1",
+      "properties": {
+        "structure": "B2 phase"
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "has_oxidation_product",
+      "target": "elem_8",
+      "properties": {
+        "oxidation_product": "TiO2"
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "has_oxidation_product",
+      "target": "elem_9",
+      "properties": {
+        "oxidation_product": "(Zr,Hf)O2"
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "has_oxidation_product",
+      "target": "elem_10",
+      "properties": {
+        "oxidation_product": "(Ti,Zr)Nb2O7"
+      }
+    },
+    {
+      "source": "elem_Al0",
+      "type": "hasParameter",
+      "target": "elem_Al0",
+      "properties": {
+        "VEC": 4.3,
+        "delta": 5.81,
+        "deltaHmix": -0.72,
+        "deltaSmix": 12.23,
+        "Omega": 36.62,
+        "Bo": 2.915,
+        "Md": 2.48,
+        "Tm": 2156
+      }
+    },
+    {
+      "source": "elem_Al0.25",
+      "type": "hasParameter",
+      "target": "elem_Al0.25",
+      "properties": {
+        "VEC": 4.24,
+        "delta": 5.67,
+        "deltaHmix": -6.04,
+        "deltaSmix": 13.24,
+        "Omega": 4.6,
+        "Bo": 2.892,
+        "Md": 2.467,
+        "Tm": 2098
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "hasParameter",
+      "target": "elem_Al0.5",
+      "properties": {
+        "VEC": 4.18,
+        "delta": 5.54,
+        "deltaHmix": -10.41,
+        "deltaSmix": 13.65,
+        "Omega": 2.68,
+        "Bo": 2.871,
+        "Md": 2.454,
+        "Tm": 2045
+      }
+    },
+    {
+      "source": "elem_Al0.75",
+      "type": "hasParameter",
+      "target": "elem_Al0.75",
+      "properties": {
+        "VEC": 4.13,
+        "delta": 5.42,
+        "deltaHmix": -14.02,
+        "deltaSmix": 13.85,
+        "Omega": 1.97,
+        "Bo": 2.851,
+        "Md": 2.443,
+        "Tm": 1996
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "hasParameter",
+      "target": "elem_Al1",
+      "properties": {
+        "VEC": 4.08,
+        "delta": 5.31,
+        "deltaHmix": -17,
+        "deltaSmix": 13.94,
+        "Omega": 1.6,
+        "Bo": 2.834,
+        "Md": 2.433,
+        "Tm": 1952
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "formsOxideLayer",
+      "target": "elem_Al2O3",
+      "properties": {
+        "thickness": "2 μm at 10 h, 3–4 μm at 24 h"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "formsOxideLayer",
+      "target": "elem_Al2O3",
+      "properties": {
+        "thickness": "2 μm at 10 h, 3–4 μm at 24 h"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "formsOxideLayer",
+      "target": "elem_ZrV2O7",
+      "properties": {
+        "time": "10 h"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "formsOxideLayer",
+      "target": "elem_ZrV2O7",
+      "properties": {
+        "time": "10 h"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "formsOxideLayer",
+      "target": "elem_HfV2O7",
+      "properties": {
+        "time": "10 h"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "formsOxideLayer",
+      "target": "elem_HfV2O7",
+      "properties": {
+        "time": "10 h"
+      }
+    },
+    {
+      "source": "elem_Al0.5",
+      "type": "formsOxideLayer",
+      "target": "elem_V2O5",
+      "properties": {
+        "time": "24 h, 50 h"
+      }
+    },
+    {
+      "source": "elem_Al1",
+      "type": "formsOxideLayer",
+      "target": "elem_V2O5",
+      "properties": {
+        "time": "24 h, 50 h"
+      }
+    },
+    {
+      "source": "elem_1",
+      "type": "has_oxide_layer",
+      "target": "elem_2",
+      "properties": {}
+    },
+    {
+      "source": "elem_1",
+      "type": "forms_evaporable_oxide",
+      "target": "elem_3",
+      "properties": {}
+    },
+    {
+      "source": "elem_1",
+      "type": "transforms_from",
+      "target": "elem_4",
+      "properties": {}
+    },
+    {
+      "source": "elem_1",
+      "type": "transforms_to",
+      "target": "elem_5",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_1",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_7",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_8",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_9",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_10",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_11",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_12",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_13",
+      "properties": {}
+    },
+    {
+      "source": "elem_6",
+      "type": "includes",
+      "target": "elem_14",
+      "properties": {}
+    }
+  ]
+}
