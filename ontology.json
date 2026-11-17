@@ -1,0 +1,90 @@
+{
+  "classes": [
+    {
+      "name": "Alloy",
+      "description": "A metallic substance composed of two or more elements."
+    },
+    {
+      "name": "Element",
+      "description": "A chemical element, such as niobium or chromium."
+    },
+    {
+      "name": "Specimen",
+      "description": "A sample of material prepared for testing."
+    },
+    {
+      "name": "OxidationTest",
+      "description": "A test measuring oxidation behavior under specific conditions."
+    },
+    {
+      "name": "Oxide",
+      "description": "A compound formed by the reaction of an element with oxygen."
+    },
+    {
+      "name": "Property",
+      "description": "A characteristic or quality of a material."
+    },
+    {
+      "name": "Phase",
+      "description": "A distinct state of matter within a system, such as solid, liquid, gas."
+    },
+    {
+      "name": "Composition",
+      "description": "The makeup of an alloy in terms of its constituent elements and their proportions."
+    },
+    {
+      "name": "Temperature",
+      "description": "A measure of thermal energy, typically measured in degrees Celsius or Kelvin."
+    },
+    {
+      "name": "Atmosphere",
+      "description": "The gaseous environment surrounding a specimen during testing."
+    },
+    {
+      "name": "Kinetics",
+      "description": "The rate and mechanism of oxidation processes."
+    }
+  ],
+  "relations": [
+    {
+      "name": "has_component",
+      "domain": "Alloy",
+      "range": "Element"
+    },
+    {
+      "name": "has_property",
+      "domain": "Specimen",
+      "range": "Property"
+    },
+    {
+      "name": "is_composed_of",
+      "domain": "Specimen",
+      "range": "Alloy"
+    },
+    {
+      "name": "exhibits_oxidation_behavior",
+      "domain": "Specimen",
+      "range": "OxidationTest"
+    },
+    {
+      "name": "has_oxide_layer",
+      "domain": "OxidationTest",
+      "range": "Oxide"
+    },
+    {
+      "name": "at_temperature",
+      "domain": "OxidationTest",
+      "range": "Temperature"
+    },
+    {
+      "name": "in_atmosphere",
+      "domain": "OxidationTest",
+      "range": "Atmosphere"
+    },
+    {
+      "name": "has_kinetics",
+      "domain": "OxidationTest",
+      "range": "Kinetics"
+    }
+  ]
+}
